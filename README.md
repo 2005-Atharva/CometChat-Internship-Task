@@ -20,7 +20,7 @@ This project is a part of the CometChat Internship Task where the objective was 
 <img src="https://github.com/user-attachments/assets/69af05ae-0422-401e-8e1e-9b8fa1c394f1" width="400" />
 
 
-Followed official CometChat documentation from: https://www.cometchat.com/docs/flutter
+Followed official CometChat documentation from: https://www.cometchat.com/docs/ui-kit/flutter/getting-started
 Used test Gmail ID with +test format as instructed.
 
 Thanks!!
