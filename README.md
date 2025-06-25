@@ -1,16 +1,26 @@
-# comet_chat_task
+# CometChat UI Kit Integration Task – Internship Assignment
 
-A new Flutter project.
+This project is a part of the CometChat Internship Task where the objective was to integrate CometChat’s UI Kit into a basic Flutter application.
 
-## Getting Started
+## 🔧 Tech Stack
+- **Framework**: Flutter (Dart)
+- **Chat SDK**: CometChat Chat UI Kit v5.0.3
+- **Calling SDK**: CometChat Calls UI Kit v5.0.3 (optional)
+- **Platform**: Android (tested)
 
-This project is a starting point for a Flutter application.
+🐞 Issues Faced
+ - Initial build failed due to ndkVersion version fix by changing version to "27.0.12077973"
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1750872440](https://github.com/user-attachments/assets/1d2460eb-fea7-4994-a0e6-99413c16afc9)
+![Screenshot_1750872457](https://github.com/user-attachments/assets/dadc6ec3-0dfb-4f21-b20d-5c53ddacb66f)
+![Screenshot_1750872462](https://github.com/user-attachments/assets/424fe71d-4a92-4f22-8c4e-b3f3f058f97c)
+![Screenshot_1750872466](https://github.com/user-attachments/assets/69af05ae-0422-401e-8e1e-9b8fa1c394f1)
+
+
+Followed official CometChat documentation from: https://www.cometchat.com/docs/flutter
+Used test Gmail ID with +test format as instructed.
+
+Thanks!!
